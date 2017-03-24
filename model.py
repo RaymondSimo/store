@@ -3,7 +3,7 @@ import web, datetime
 db_host='if0ck476y7axojpg.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
 db_name='mtwlpw0hz1rpeaiu'
 db_user='ropsu6imlad3eoo1'
-db_pw='jevk1iol5cqled54'
+db_pw='wua8je1fsyf6pbje'
 
 db=web.database(
   dbn='mysql',
