@@ -11,7 +11,7 @@ db=web.database(
   db=db_name,
   user=db_user,
   pw=db_pw
-	)
+)
 
 def get_posts():
     return db.select('productos', order='id_producto ASC')
